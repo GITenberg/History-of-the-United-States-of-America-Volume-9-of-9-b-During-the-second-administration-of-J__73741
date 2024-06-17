@@ -1,5 +1,8 @@
 _repo: History-of-the-United-States-of-America-Volume-9-of-9-b-During-the-second-administration-of-J__73741
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73741-h/images/cover.jpg
 creator:
   author:
     agent_name: Adams, Henry
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/798
     wikipedia: https://en.wikipedia.org/wiki/Henry_Adams
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73741#History-of-the-United-States-of-America-Volume-9-of-9-b-During-the-second-administration-of-J_
 gutenberg_issued: '2024-05-31'
 gutenberg_type: Text
 identifiers:
